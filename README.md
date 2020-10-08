@@ -44,4 +44,9 @@ Yes, just follow the directions to adapt the code on the firmware repository lin
 * X61
 * T61
 
+**Contact**
+
+Reddit - u/wren4777
+Discord - Wren#2829
+
 **Gerbers and firmware info coming soon!**
