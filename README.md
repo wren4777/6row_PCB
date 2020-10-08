@@ -3,7 +3,7 @@
 
 Based on the excellent work by lowJ and his tp-keyboard project: https://github.com/lowJ/tp-keyboard
 
-This project aims to create an easy-to-build **through-hole only** QMK-compatible controller for a six row ThinkPad keyboard (L410, L420 etc) and x61 trackpoint, based on the ATMega324PA-PN microcontroller.
+This project aims to create an easy-to-build **through-hole only** QMK-compatible USB controller for a six row ThinkPad keyboard (L410, L420 etc) and x61 trackpoint, based on the ATMega324PA-PN microcontroller.
 
 **QMK Firmware**: https://github.com/wren4777/6row_fw
 
