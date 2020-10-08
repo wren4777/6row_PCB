@@ -9,7 +9,7 @@ This project aims to create an easy-to-build **through-hole only** QMK-compatibl
 
 **Why six row over seven?**
 
-Unfortunately, as wonderful as the classic seven row ThinkPad keyboard on the T420 and similar is, it uses a difficult to source and difficult to solder surface-mount connector. The six row keyboards, as found on the L410 and later, uses a standard 30-pin 1mm FFC connector, allowing for easy integration with an external controller.
+Unfortunately, as wonderful as the classic seven row ThinkPad keyboard on the T420 and similar is, it uses a difficult to source and difficult to solder surface-mount connector. The six row keyboards, as found on the L410 and later, use a standard 30-pin 1mm FFC connector, allowing for easy integration with an external controller.
 
 **Why do I need to replace my Trackpoint?**
 
