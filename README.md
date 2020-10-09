@@ -7,6 +7,7 @@ This project aims to create an easy-to-build **through-hole only** QMK-compatibl
 
 **QMK Firmware**: https://github.com/wren4777/6row_fw
 
+**Matrix (untested!): https://docs.google.com/spreadsheets/d/1tQ2VNZjKjTMB-WhVCuyUlhV_uuDBqxDxuXh8Zw81a1k/edit?usp=sharing
 **Why six row over seven?**
 
 Unfortunately, as wonderful as the classic seven row ThinkPad keyboard on the T420 and similar is, it uses a difficult to source and difficult to solder surface-mount connector. The six row keyboards, as found on the L410 and later, use a standard 30-pin 1mm FFC connector, allowing for easy integration with an external controller.
